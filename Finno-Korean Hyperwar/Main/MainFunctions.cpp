@@ -1,10 +1,9 @@
 #include <iostream>
-#include <iostream>
-#include <ncurses.h>
+#include <curses.h>
 
 using namespace std;
 
 
 void showMainMenu() {
-    getmaxyx(stdscr, rzedy, kolumny); //1
+    getmaxyx(stdscr, 3, 5); //1
 }
