@@ -9,6 +9,7 @@ using namespace std;
 int main()
 {
 
-    showMainMenu();
+    //showMainMenu();
+    showMap();
 
 }
