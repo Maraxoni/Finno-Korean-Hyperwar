@@ -130,11 +130,14 @@
     <ClCompile Include="Finno-Korean Hyperwar.cpp" />
     <ClCompile Include="Main\City.cpp" />
     <ClCompile Include="Main\Country.cpp" />
+    <ClCompile Include="Main\Game.cpp" />
     <ClCompile Include="Main\MainFunctions.cpp" />
+    <ClCompile Include="Main\Settings.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main\City.h" />
     <ClInclude Include="Main\Country.h" />
+    <ClInclude Include="Main\Game.h" />
     <ClInclude Include="Main\MainFunctions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
